@@ -128,5 +128,26 @@ The approach prioritizes **interpretability and robustness** over complex models
 - Scikit-learn  
 
 ---
-
+```
 ## 📁 Repository Structure
+├── notebook/
+│ └── attach_analysis.ipynb
+├── report/
+│ └── Attach_Percentage_Analysis_Report.pdf
+├── images/
+│ └── charts/
+├── data/
+└── README.md
+```
+
+
+---
+
+## 🚀 Conclusion
+This project demonstrates a complete data science workflow—from business understanding and exploratory analysis to segmentation, recommendations, and forecasting—focused on clarity, interpretability, and real-world applicability.
+
+---
+
+## 📬 Author
+**[Yoganshu Sharma]**  
+
